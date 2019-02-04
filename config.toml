@@ -1,0 +1,4 @@
+baseURL = "http://www.seanduffy.co.uk/"
+languageCode = "en-gb"
+title = "Sean Duffy / Blog"
+theme = "hyde"
