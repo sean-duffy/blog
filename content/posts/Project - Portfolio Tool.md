@@ -2,6 +2,7 @@
 title: "Project: Portfolio Tool"
 date: 2013-07-15T10:00:00Z
 draft: false
+tags: ["project"]
 ---
 
 This is a web application I built in late 2012 while I was studying [Computational Investing](https://www.coursera.org/course/compinvesting1), an online course offered by coursera.org which provides an introduction to the programming side of quantitative analysis for finance, dealing particularly with hedge funds. I really enjoyed this course and I'd recommend it to anyone interested in computer science, finance, or both. It assumes only a basic knowledge of programming and pretty much no knowledge of finance or the stock market.

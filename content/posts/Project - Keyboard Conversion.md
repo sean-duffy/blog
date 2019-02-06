@@ -2,6 +2,7 @@
 title: "Project: Keyboard Conversion"
 date: 2015-10-13T10:00:00Z
 draft: false
+tags: ["project"]
 ---
 
 Over the course of this year I have have developed an interest in mechanical keyboards, largely thanks to the [/r/mechanicalkeyboards](http://reddit.com/r/mechanicalkeyboards) subreddit. This is probably

@@ -2,6 +2,7 @@
 title: "Project: Quadcopter Build"
 date: 2013-09-10T10:00:00Z
 draft: false
+tags: ["project"]
 ---
 
 Quadcopters are something I've been interested in for some time, when I first saw one I was amazed by the agility and stability it displayed and immediately wanted to know more. Being a programmer, the fact that carefully designed control software is the only thing that allows quadcopters to stay in the air furthered my interest. Since then I've bought a couple of cheap RC quadcopters, which I've had a lot of fun flying.

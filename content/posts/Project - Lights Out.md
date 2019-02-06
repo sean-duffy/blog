@@ -2,6 +2,7 @@
 title: "Project: Lights Out"
 date: 2013-09-16T10:00:00Z
 draft: false
+tags: ["project"]
 ---
 
 This project is a Python recreation of the classic game *Lights Out* using the Tkinter package for the GUI, which I built a couple of weeks ago. It was very simple and didn't take long, but I thought it'd be a good opportunity to use Tkinter and work on a fun puzzle game that I enjoy playing.

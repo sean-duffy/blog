@@ -2,6 +2,7 @@
 title: "Project: Race Quad Build"
 date: 2016-03-23T10:00:00Z
 draft: false
+tags: ["project"]
 ---
 
 For the past two years, the [quadcopter I built](http://www.seanduffy.co.uk/blog/2013/8/Project:-Quadcopter-Build/) has served me well. It's had a lot of flight time, including had a few crashes and repairs, and still it flies very well. However, a couple of months ago I decided now was the time to venture outside of line-of-sight flying and into the world of FPV (First Person View).

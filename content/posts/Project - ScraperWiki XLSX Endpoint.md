@@ -2,6 +2,7 @@
 title: "Project: ScraperWiki XLSX Endpoint"
 date: 2014-09-08T10:00:00Z
 draft: false
+tags: ["project"]
 ---
 
 This summer I was invited to work for [ScraperWiki](http://seanduffy.co.uk/blog/2013/8/ScraperWiki:-Part-I/), and this post is about the project I spent most of my time on during this internship. The project in question was rewriting an endpoint that converts data in a SQL database to Excel Spreadsheet (XLSX) form for users to download and use. The current program was written in Python but was fairly slow and had the problem of consuming large amounts of system memory, sometimes causing failures in large datasets. 
