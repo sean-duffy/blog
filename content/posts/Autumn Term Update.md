@@ -6,7 +6,7 @@ draft: false
 
 Since I've come to the end of my first term at University and I've only made a single post since starting, I thought I'd better make one now to give an update on what I've been up to! So far the course has went well, and while providing a steady workload and a challenge, hasn't been too difficult to cope with and I've also joined a couple of societies.
 
-<iframe width='600' height='450' src='//www.youtube.com/embed/PgjbiBG2sf8?rel=0' frameborder='0' allowfullscreen></iframe>
+{{< youtube id="PgjbiBG2sf8" >}}
 
 In my previous post, I mentioned the Raspberry Pi challenges that were taking place in my first week. I took part in both Battle Pi and Blue Pi Thinking, and while I didn't win any of them, they were both a lot of fun and the event was a great way to start getting to know people. Over the past few weeks me and some others who took part in the Blue Pi Thinking competition have been presenting talks and demos to prospective students at their interview days, to let them know about the Raspberry Pi challenges, which they'll have the chance to take part in if they come to York next year. There was a great video made at the event, which I've embedded above.
 

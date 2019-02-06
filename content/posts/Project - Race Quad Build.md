@@ -45,5 +45,4 @@ It's worth noting that before attempting to fly this quad FPV I put quite a few 
 
 Between now and when I finished the FPV setup on Friday I've managed to fit in three FPV sessions, and I loved every minute of them. I'm gradually building confidence and I can't wait to fly in more locations and try some tricks. Below I've embedded a video of some footage from my most recent FPV session.
 
-<iframe width='600' height='450' src='https//www.youtube.com/embed/y0uWKxKC6NU' frameborder='0' allowfullscreen></iframe>
-
+{{< youtube id="y0uWKxKC6NU" >}}
