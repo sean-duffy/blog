@@ -46,7 +46,7 @@ body {
 .post h1:hover {
 	text-decoration: underline;
 }
-#noLink {
+.noLink {
 	color: #222222;
 	font-size: 2.6em;
 	margin: -10px 0 50px 0;

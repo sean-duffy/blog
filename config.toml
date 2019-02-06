@@ -1,4 +1,7 @@
 baseURL = "http://www.seanduffy.co.uk/"
 languageCode = "en-gb"
-title = "Sean Duffy / Blog"
+title = "Sean Duffy"
 theme = "hyde"
+
+[permalinks]
+    posts = "/:year/:month/:day/:title/"
