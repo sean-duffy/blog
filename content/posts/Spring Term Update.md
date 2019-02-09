@@ -6,7 +6,7 @@ draft: false
 
 It's April and I've just come to the end of my second term at university! It seems to have flown by. Some news since my last post is that I've secured another internship at ScraperWiki for this summer! I'll be looking forward to going back  to work on more interesting problems and learn even more.
 
-Another bit of exciting news is that I recently bought a Mobius ActionCam to mount onto [my quadcopter](http://seanduffy.co.uk/blog/2013/8/Project:-Quadcopter-Build/) and hopefully get some good aerial footage! The Mobius is a fantastic camera, especially for its price. It costs around £50 and records 1080p HD video almost as well as the much more expensive GoPro cameras, which are normally used for this kind of aerial photography. It's also very compact and light, which makes mounting it on a quadcopter very easy. 
+Another bit of exciting news is that I recently bought a Mobius ActionCam to mount onto [my quadcopter]({{< ref "posts/Project - Quadcopter Build.md" >}}) and hopefully get some good aerial footage! The Mobius is a fantastic camera, especially for its price. It costs around £50 and records 1080p HD video almost as well as the much more expensive GoPro cameras, which are normally used for this kind of aerial photography. It's also very compact and light, which makes mounting it on a quadcopter very easy. 
 
 ![Mobius Camera Photo](https://c1.staticflickr.com/3/2832/13564573823_46ed7c4fb7_c.jpg "The Mobius ActionCam on my quadcopter.")
 

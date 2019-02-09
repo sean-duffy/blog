@@ -6,7 +6,7 @@ draft: false
 
 I've had a very busy and fairly productive summer, so in this post I'll be summarising what I've been up to! After finishing my university exams and coming back home for the summer, I was pleased to learn that I'd scored 77% overall for my first year. My first year mark doesn't actually count towards my degree, but it's a good reassurance that yes, I indeed can do computer science!
 
-[ScraperWiki](http://seanduffy.co.uk/blog/2013/8/ScraperWiki:-Part-I/) kindly invited me back to work for them this summer, so after a couple of weeks of rest I started work there. You can read all about that in my  Of course most of their software is open source, so you can see all the code I wrote! After settling in I was introduced to the first project I'd be working on. I wrote about this in a separate post, which you can read [here](http://seanduffy.co.uk/blog/2014/9/Project_-XLSX-Endpoint/). 
+[ScraperWiki]({{< ref "posts/ScraperWiki - Part I.md" >}}) kindly invited me back to work for them this summer, so after a couple of weeks of rest I started work there. You can read all about that in my  Of course most of their software is open source, so you can see all the code I wrote! After settling in I was introduced to the first project I'd be working on. I wrote about this in a separate post, which you can read [here]({{< ref "posts/Project - ScraperWiki XLSX Endpoint.md" >}}). 
 
 I also worked on some other projects, the main one being replacing the code being used to access the database in scrapers running on the ScraperWiki platform. This isn't yet deployed, but you can see the progress [here](https://github.com/scraperwiki/scraperwiki-python).
 

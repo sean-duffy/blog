@@ -5,7 +5,7 @@ draft: false
 tags: ["project"]
 ---
 
-For the past two years, the [quadcopter I built](http://www.seanduffy.co.uk/blog/2013/8/Project:-Quadcopter-Build/) has served me well. It's had a lot of flight time, including had a few crashes and repairs, and still it flies very well. However, a couple of months ago I decided now was the time to venture outside of line-of-sight flying and into the world of FPV (First Person View).
+For the past two years, the [quadcopter I built]({{< ref "posts/Project - Quadcopter Build.md" >}}) has served me well. It's had a lot of flight time, including had a few crashes and repairs, and still it flies very well. However, a couple of months ago I decided now was the time to venture outside of line-of-sight flying and into the world of FPV (First Person View).
 
 Although it's only been two years since I built my last quadcopter, a lot has changed in the multirotor hobby in that time. The main trend is that FPV, flying a drone through its point of view via a video link, has become much more popular. This has lead to the development of drone racing, where small, precisely tuned quads fly around challenging aerial tracks.
 
