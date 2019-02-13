@@ -22,15 +22,21 @@ to find accommodation for ten weeks of summer in London. After a lot of looking 
 remainder of the contract for their accommodation due to them not planning to stay over the summer. I didn't visit the flat before moving down, but it worked out well
 anyway, and it's small, it's centrally located in Southwark and is only three stops on the Jubilee line from Canary Wharf, where I could be commuting to each day.
 
-![My Room](https://farm4.staticflickr.com/3722/18614286954_7c252e8bac_c.jpg "My room isn't the largest, but it does just fine for me.")
+{{< figure src="https://farm4.staticflickr.com/3722/18614286954_7c252e8bac_c.jpg"
+           link="https://farm4.staticflickr.com/3722/18614286954_7c252e8bac_b.jpg"
+           title="My room isn't the largest, but it does just fine for me.">}}
 
-![Roof View](https://farm4.staticflickr.com/3928/19050613189_f58ac0f4df_c.jpg "My accommodation building has a roof terrace with pretty good views of the city, you can see the Houses of Parliment in the distance.")
+{{< figure src="https://farm4.staticflickr.com/3928/19050613189_f58ac0f4df_c.jpg"
+           link="https://farm4.staticflickr.com/3928/19050613189_f58ac0f4df_b.jpg"
+           title="My accommodation building has a roof terrace with pretty good views of the city, you can see the Houses of Parliment in the distance.">}}
 
 Having not visited London very much in the past, my experience of living here for the past week has really exceeded expectations. There's history and museums all over
 the city, tons of great pubs, cafés and restaurants, and events going on all the time. In the time I've spent exploring the city, I've been discovering more and more
 things to do while I'm here.
 
-![Parade](https://farm4.staticflickr.com/3946/19240697701_ba5399d3c9_c.jpg "Last weekend I was able to see the parade commemorating the 200th anniversity of the Battle of Waterloo.")
+{{< figure src="https://farm4.staticflickr.com/3946/19240697701_ba5399d3c9_c.jpg"
+           link="https://farm4.staticflickr.com/3946/19240697701_ba5399d3c9_b.jpg"
+           title="Last weekend I was able to see the parade commemorating the 200th anniversity of the Battle of Waterloo.">}}
 
 As can be expected at such a large organisation, my first week in work has consisted mostly of training and getting to know the people I'll be working with. Although I
 haven't been able to get on with any proper work yet, there's been quite a few highlights. We had a one day crash course in investment banking, which was very informative

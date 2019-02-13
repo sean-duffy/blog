@@ -11,11 +11,15 @@ Another thing that appealed to me about quadcopters and multirotors in general, 
 
 A large portion of my interest and knowledge of multicopters and RC comes from [Flite Test](http://www.youtube.com/user/flitetest/), an excellent YouTube channel that creates high-quality videos about all aspects of RC and has entertained me a great deal. They also run a [website](http://flitetest.com) for hobbyists to share their knowledge and projects. Flite Test have their own range of RC aeroplane and multirotor frame kits, and my quad is based around their Rotor Bones series of frames.
 
-![Anycopter Frame](http://farm6.staticflickr.com/5342/9540906234_464e9e1f84_c.jpg "The assembled  Anycopter frame.")
+{{< figure src="http://farm6.staticflickr.com/5342/9540906234_464e9e1f84_c.jpg"
+           link="http://farm6.staticflickr.com/5342/9540906234_464e9e1f84_b.jpg"
+           title="The assembled  Anycopter frame.">}}
 
 The Rotor Bones Anycopter frames consist of 3, 4, 6 or 8 (depending on the desired multicopter) wooden booms with black delrin landing legs connected to a circular hub. In my case I'm building a quadcopter so I'll be using 4 booms, but a benefit of this frame is that if at some point I decide I want a hexacopter or octocopter, all I need to do is add more booms and parts to the existing frame. When assembled, the frame looks very sturdy and rather nice.
 
-![Electronics](http://farm6.staticflickr.com/5505/9540922584_cd49dc8c32_c.jpg "The electronics arrive!")
+{{< figure src="http://farm6.staticflickr.com/5505/9540922584_cd49dc8c32_c.jpg"
+           link="http://farm6.staticflickr.com/5505/9540922584_cd49dc8c32_b.jpg"
+           title="The electronics arrive!">}}
 
 After a few weeks waiting for all my electronics to be in stock on HobbyKing, they were shipped and on their way. For those unfamiliar with multirotors, this consisted of a lithium polymer battery, motors, propellers, speed controllers (ESCs) to drive the motors and a control board to act as the brain of the copter. I already had a radio transmitter and receiver to control the quad. For those interested, here is a listing of my parts:
 
@@ -29,11 +33,15 @@ For anyone with with experience building custom PCs, assembling a multirotor is 
 
 The last step was to balance my propellers, which is often overlooked but very important. The process used to manufacture the propellers is not perfect, and so one side is normally slightly heavier than the other. These imbalances may be small, but at high propeller speeds they can cause vibrations which interfere with the multirotor's sensors, causing unsteady flight. This is even more important if the multirotor has a camera mounted, as the vibrations will cause shaky video and blurred photographs.
 
-![Finished Quadcopter](http://farm4.staticflickr.com/3706/9540937152_5d9a2b920b_c.jpg "The finished quadcopter, you can see the tape on the propellers which is being used to balance them.")
+{{< figure src="http://farm4.staticflickr.com/3706/9540937152_5d9a2b920b_c.jpg"
+           link="http://farm4.staticflickr.com/3706/9540937152_5d9a2b920b_b.jpg"
+           title="The finished quadcopter, you can see the tape on the propellers which is being used to balance them.">}}
 
 After finishing all this a few days ago, today was the first chance I had to give the quadcopter its maiden flight. I took it out into the garden, set it down in the middle of the grass, armed it and when I increased the throttle it took off beautifully! I'm very glad that it worked first time, since in the past I've had a lot of trouble. It was a little bit touchy but other than that very stable and under control.
 
-![Maiden Flight](http://farm8.staticflickr.com/7434/9538163503_028e49743d_c.jpg "")
+{{< figure src="http://farm8.staticflickr.com/7434/9538163503_028e49743d_c.jpg"
+           link="http://farm8.staticflickr.com/7434/9538163503_028e49743d_b.jpg"
+           title="The Maiden Flight">}}
 
 I hope you enjoyed this build log and that I might have transferred a small part of my enthusiasm for multirotors onto you. The next thing will be to properly calibrate and configure all of the settings on the KK 2.0 board in order to get the kind of flight performance I'm looking for. After that, I'll be looking forward to taking it out for its first proper flight!
 

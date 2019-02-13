@@ -8,7 +8,9 @@ It's April and I've just come to the end of my second term at university! It see
 
 Another bit of exciting news is that I recently bought a Mobius ActionCam to mount onto [my quadcopter]({{< ref "posts/Project - Quadcopter Build.md" >}}) and hopefully get some good aerial footage! The Mobius is a fantastic camera, especially for its price. It costs around £50 and records 1080p HD video almost as well as the much more expensive GoPro cameras, which are normally used for this kind of aerial photography. It's also very compact and light, which makes mounting it on a quadcopter very easy. 
 
-![Mobius Camera Photo](https://c1.staticflickr.com/3/2832/13564573823_46ed7c4fb7_c.jpg "The Mobius ActionCam on my quadcopter.")
+{{< figure src="https://c1.staticflickr.com/3/2832/13564573823_46ed7c4fb7_c.jpg"
+           link="https://c1.staticflickr.com/3/2832/13564573823_46ed7c4fb7_b.jpg"
+           title="The Mobius ActionCam on my quadcopter.">}}
 
 Since there's only so much you can do when flying by line-of-sight, the next step would be to fit my quad with an FPV (First Person View) system to allow me to see what the camera is seeing and get much more interesting footage and to fly at higher altitudes. At the moment I'm hesitant, since FPV equipment isn't cheap and a full setup would cost about as much as the quadcopter itself did, but I do plan to take the plunge eventually, and [this kit](http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=1129) from Ready Made RC looks promising for when I do.
 
