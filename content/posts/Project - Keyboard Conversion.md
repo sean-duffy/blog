@@ -66,7 +66,7 @@ so I soldered up some stripboard to allow me to connect the Teensy pins to the m
 in place using Velcro until I figure out a better way, but for now this seems to work quite well. The USB cable from the Teensy comes out of the hole in the metal keyboard chassis just like the original cable did,
 and now it works straight away just like an ordinary USB keyboard!
 
-![The converted keyboard](http://farm6.staticflickr.com/5768/22145521305_f19dabfa45_c.jpg "The Teensy wired up to the key switch matrix via my homemade stripboard connector")
+![The converted keyboard](https://farm6.staticflickr.com/5768/22145521305_08f1f2d06a_b.jpg "The Teensy wired up to the key switch matrix via my homemade stripboard connector")
 
 All in all it was an enjoyable and rewarding project, I'll definitely keep an eye out for more interesting or unusual keyboards. I'm not using it as my main keyboard, currently that title belongs to my aluminium Apple Compact
 Wired Keyboard, which was unfortunately [discontinued](http://www.cultofmac.com/72028/apples-compact-wired-keyboard-has-been-discontinued/), although I am in the market for a mechanical keyboard!
