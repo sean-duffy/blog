@@ -43,9 +43,6 @@ body {
 	line-height: 50px;
 	margin: 30px 0 0 0;	
 }
-.post h1:hover {
-	text-decoration: underline;
-}
 .noLink {
 	color: #222222;
 	font-size: 2.6em;
