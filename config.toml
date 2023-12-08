@@ -1,4 +1,4 @@
-baseURL = "http://www.seanduffy.co.uk/"
+baseURL = "https://sean-duffy.github.io/"
 languageCode = "en-gb"
 title = "Sean Duffy"
 theme = "hyde"
